@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\DotNet WellaProject\\MVCDB\\SchoolManagementApp.MVC\\wwwroot\\images\\passage-entrance-ice-dimension.jpg",
+      "PackagePath": "staticwebassets\\images\\passage-entrance-ice-dimension.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\DotNet WellaProject\\MVCDB\\SchoolManagementApp.MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

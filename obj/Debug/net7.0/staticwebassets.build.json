@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QRguYDvMz+48Db/4xH+yWpN2dtvJQYH5CKvnYP52g1Y=",
+  "Hash": "OP97LY3pLfckjL3QOkiQVfyrV1+xhyTyQjsRPIrkmF4=",
   "Source": "SchoolManagementApp.MVC",
   "BasePath": "_content/SchoolManagementApp.MVC",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\DotNet WellaProject\\MVCDB\\SchoolManagementApp.MVC\\wwwroot\\images\\passage-entrance-ice-dimension.jpg",
+      "SourceId": "SchoolManagementApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\DotNet WellaProject\\MVCDB\\SchoolManagementApp.MVC\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementApp.MVC",
+      "RelativePath": "images/passage-entrance-ice-dimension.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\passage-entrance-ice-dimension.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\DotNet WellaProject\\MVCDB\\SchoolManagementApp.MVC\\wwwroot\\js\\site.js",
